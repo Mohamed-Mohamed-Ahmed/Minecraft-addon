@@ -1,0 +1,29 @@
+# Status Report
+
+#### Your name
+
+Mohamed Mohamed Ahmed
+
+#### Your section leader's name
+
+ Xinwen (Ellen) Zhang
+
+#### Project title
+
+Minecraft x Hunter
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+Animations, character, Behaviors.
+
+#### What have you not done for your project yet?
+
+have not added and Aura system
+
+#### What problems, if any, have you encountered?
+
+I had problems with the animations 
